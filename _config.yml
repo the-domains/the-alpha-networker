@@ -1,0 +1,29 @@
+name: The Alpha Networker
+favicon: null
+layout_spectrum: 0.7883624492678791
+typography_spectrum: 0.22625583200715482
+title: On Becoming  A Top Income Earner  In Network Marketing
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.36133938119746745
+  lightness: 0.8083347850479186
+  saturation: 0.3677372862584889
+  rhythmicContrast: 0.5171871071215719
+purpose: []
